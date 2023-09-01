@@ -1,5 +1,7 @@
-### Nawa: 모임 중개 서비스
+### NAWA: 모임 중개 서비스
 ![](./doc/thumbnail-01.png)
+
+[프로젝트 회고록](https://jisulog.com/docs/essay/project-review/2019-nawa)
 
 ## 개요
 가끔 혼자서는 조금 외로웠던 취미 생활이 있으셨나요?
